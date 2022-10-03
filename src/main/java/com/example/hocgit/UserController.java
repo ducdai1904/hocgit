@@ -8,14 +8,12 @@ public class UserController {
     public String test2(String a, String b){
         return null;
     }
-
-    public void add(){
+    public void adduser(){
         String ten;
         String tuoi;
     }
-    public void update(){
+    public void updateUser(){
         String ten;
         String tuoi;
     }
-
 }
